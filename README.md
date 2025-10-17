@@ -20,7 +20,6 @@ This Chrome extension helps you quickly send content from a Canvas page to ChatG
 5.  Select the directory where you saved this project.
 6.  The extension should now be installed and visible in your browser's toolbar!
 
-**Note:** The icons are currently placeholders.
 
 ## Debugging
 
